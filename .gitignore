@@ -1,3 +1,4 @@
+config.py
 *.csv
 *movies_metadata.csv
 *ratings.csv
