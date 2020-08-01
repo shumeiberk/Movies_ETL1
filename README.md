@@ -10,6 +10,6 @@ Load new data into PostgreSQL.
 
 Streamlined 3 different functions into one cohesive chain merging various datasets:
 
-Wikipedia data
-Kaggle metadata
+Wikipedia data,
+Kaggle metadata,
 MovieLens rating data (from Kaggle)
